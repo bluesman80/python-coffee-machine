@@ -22,7 +22,7 @@ Your coffee machine should have the the same initial resources as in the example
 The greater-than symbol followed by space (> ) represents the user input. Notice that it's not the part of the input.
 
 Example 1:
-
+<pre>
 Write action (buy, fill, take, remaining, exit):
 > remaining
 
@@ -113,3 +113,4 @@ $0 of money
 
 Write action (buy, fill, take, remaining, exit):
 > exit
+</pre>
